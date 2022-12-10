@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "954704854968",
+    "project_id": "chat-paradise-app",
+    "storage_bucket": "chat-paradise-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954704854968:android:196ad0e7bc434a5fdc594d",
+        "android_client_info": {
+          "package_name": "com.example.paradise_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954704854968-uuue76ovihgdgaabhd4ml8o2gr658edr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paradise_chat",
+            "certificate_hash": "aedf998a81fa4b08ab9b3d3879d315f72bb069b3"
+          }
+        },
+        {
+          "client_id": "954704854968-pt9bfil34ldptf0l9s72lvai3603rtvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCjNSeO8GpLW8upeTpNa0qojabgdAjd5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954704854968-pt9bfil34ldptf0l9s72lvai3603rtvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
